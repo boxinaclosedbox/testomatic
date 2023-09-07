@@ -1,1 +1,2 @@
 # testomatic
+just testomatic
